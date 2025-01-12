@@ -3,25 +3,26 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 require("dotenv").config();
 const morgan = require("morgan");
-const winston = require("winston");
+const winston  = require("winston");
 const { addColors } = require("winston/lib/winston/config");
 
 //Define our core application
-const app = express(); //This allows all the methods and fuctions from this package to be defined
+const app = express(); //Basically calling the express object. This allows all the methods and fuctions from this package to be defined
 
 //Define our middleware
 app.use(cors());
 app.use(express.json());
-app.use(express.static("public")); //Tells express to serve static files like images, css and javascript
+app.use(express.static("public")); //Tells express to serve static files like images, css and javascript from a directory name "public"
 
-//To establish the mongoDB connection
+//To establish the mongoDB connection------------------------------------------ 
 mongoose
   .connect(
-    process.env.MONGODB_URI || "mongodb://localhost:27017/students-management",
+    process.env.MONGODB_URI || "mongodb://localhost:27017/students-management",   
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => console.log("Connected to MongoDB"))
   .catch((err) => console.error("MongoDB connection error:", err));
+  //END OF MONGODB CONNECTION--------------------------------------------------
 
 //Configure Winston Logger
 const logger = winston.createLogger({
@@ -84,6 +85,7 @@ app.use((err, req, res, next) => {
 
 //To Define the Schemas for our Students Data
 //NOTE: A Schema is a like a blue-print that define the structure and rule for documents in the collection
+//This is going to create a new Schema in our mongodb database
 const studentSchema = new mongoose.Schema(
   {
     name: {
@@ -105,7 +107,7 @@ const studentSchema = new mongoose.Schema(
     },
     status: {
       type: String,
-      enum: ["active", "inactive"],
+      enum: ["active", "inactive"], //enum is basically a property that specifies a list of allowed values for fields
       default: "active",
     },
   },
@@ -149,14 +151,14 @@ const courseSchema = new mongoose.Schema(
 const Course = mongoose.model("Course", courseSchema);
 
 //Our API Routes
-//Course Routes//Allow us to interact with  Backend directly with the Frontend
+//Course Routes//Allow us to interact with Backend directly with the Frontend
 
 //Course Routes
 
 //This API endpoint is for retrieving courses from the database
 app.get("/api/courses", async (req, res) => {
   try {
-    const courses = await Course.find().sort({ name: 1 });
+    const courses = await Course.find().sort({ name: 1 }); //This retrieves the first course from the database and sort them in alphabetical order
     logger.info(`Retrieved ${courses.length} courses successfully`);
     res.json(courses);
   } catch (error) {
@@ -169,12 +171,12 @@ app.get("/api/courses", async (req, res) => {
 app.post("/api/courses", async (req, res) => {
   try {
     const courses = new Course(req.body);
-    const savedCourse = await course.save();
+    const savedCourse = await courses.save();
     logger.info("New Course created:", {
       couresId: savedCourse._id,
       name: savedCourse.name,
     });
-    res.status(201).json(saveCourse);
+    res.status(201).json(savedCourse);
   } catch (error) {
     logger.error("Error creating Course", error);
     res.status(400).json({ message: error.message });
@@ -240,8 +242,7 @@ app.delete("/api/courses/:id", async (req, res) => {
 //This GET API endpoint get or retrieve the students from the Datatables from the date they were created and sort them, and '-1" means the newest students first
 app.get("/api/students", async (req, res) => {
   try {
-    const students = await Student.find().sort({ createdAt: -1 });
-    logger.info(`Retrieved ${students.length} students successfully`);
+    const students = await Student.find().sort({ createdAt: -1 }); //We're getting the students from when they where created, sort them in acending order. The "-1" Means the NEWEST first    logger.info(`Retrieved ${students.length} students successfully`);
     res.json(students);
   } catch (error) {
     logger.error("Error while fetching students:", error);
@@ -255,8 +256,8 @@ app.get("/api/students", async (req, res) => {
 
 app.post("/api/students", async (req, res) => {
   try {
-    const students = new Student(req.body);
-    const savedStudent = await students.save();
+    const student = new Student(req.body);
+    const savedStudent = await student.save();
     logger.info("Student created successfully:", {
       studentId: savedStudent._id,
       name: savedStudent.name,

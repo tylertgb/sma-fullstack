@@ -27,7 +27,11 @@
             Courses
         </div>
         <div class="nav-item">
-            <i class="fa-light fa-gear"></i>
+            <i class="fa-solid fa-file-fragment"></i>
+            Reports
+        </div>
+        <div class="nav-item">
+            <i class="fa-solid fa-gear"></i>
             Settings
         </div>
       </div>
@@ -35,12 +39,184 @@
       <!-- Main Content -->
        <div class="main-content">
             <div class="header">
+                <div class="search-bar">
+                    <i class="fa fa-search"></i>
+                    <input type="text" placeholder="Search students..." name="search" id=""/>
+                </div>
                 <div class="user-avator">
                     <i class="fa fa-user" aria-hidden="true"></i>
-                    User
+                    Admin
+                </div>
+            </div>
+            <!-- Dashboard Section -->
+             <div id="dashboardSection" class="section Dashboard
+             active">
+             <div class="dashboard-cards">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-icon">
+                            <i class="fa-regular fa-user"></i>
+                        </div>
+                        <div class="card-title">Total Students</div>
+                        <div class="card-value">0</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-icon">
+                            <i class="fa-solid fa-book"></i>
+                        </div>
+                        <div class="card-title">Active Courses</div>
+                        <div class="card-value">0</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-icon">
+                            <i class="fa-solid fa-graduation-cap"></i>
+                        </div>
+                        <div class="card-title">Graduates</div>
+                        <div class="card-value">0</div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-icon">
+                            <i class="fa-solid fa-graduation-cap"></i>
+                        </div>
+                        <div class="card-title">Success Rate</div>
+                        <div class="card-value">0%</div>
+                    </div>
+                </div>
+                <!-- Students List Dashboard  -->
+                 <div class="student-list">
+                    <div class="table-header">
+                        <h2>Recent Students</h2>
+                        <button onclick="onpenModal()">
+                            <i class="fa-solid fa-plus"></i>
+                            Add Student
+                        </button>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Course</th>
+                                <th>Enrollment Date</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="studentTableBody">
+                            <!-- Will be populated dynamically -->
+                        </tbody>
+                    </table>
+                 </div>
+             </div>
+            
+
+             <!-- Students Section -->
+             <div class="studentSection section">
+                <div class="student-list">
+                    <div class="table-header">
+                        <h2>Recent Students</h2>
+                        <button onclick="onpenModal()">
+                            <i class="fa-solid fa-plus"></i>
+                            Add Student
+                        </button>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Course</th>
+                                <th>Enrollment Date</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="allStudentTableBody">
+                            <!-- Will be populated dynamically -->
+                        </tbody>
+                    </table>
+                 </div>
+             </div>
+
+             <!-- Courses Section -->
+              <div class="courseSection section">
+                <div class="course-list">
+                    <div class="table-header">
+                        <h2>Course Management</h2>
+                        <button class="add-student-btn"
+                        onclick="openCourseModal()">
+                        <i class="fa-solid fa-plus"></i>
+                        Add Course
+                        </button>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Description</th>
+                                <th>Duration (months)</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="courseTableBody">
+                            <!-- Will be populated dynamically -->
+                        </tbody>
+                    </table>
+                </div>
+              </div>
+
+              <!-- Reports Section -->
+               <div id="reportsSection" class="section">
+                <h2>Reports Coming Soon!</h2>
+               </div>
+
+               <!-- Settings Section -->
+                <div id="settingsSection" class="section">
+                    <h2>Settings  Coming Soon!</h2>
                 </div>
             </div>
        </div>
+
+       <!-- Add Student Modal -->
+       <div class="modal" id="studentModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">Add New Student</h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <form action="" id="studentForm">
+                <div class="form-group">
+                    <label for="studentName">FullName</label>
+                    <input type="text" name="FullName" id="FullName" required>
+                </div>
+                <div class="form-group">
+                    <label for="studentEmail">Email</label>
+                    <input type="email" name="studentEmail" id="studentEmail" required>
+                </div>
+                <div class="form-group">
+                    <label for="studentCourse">Course</label>
+                    <select name="" id="studentCourse" required>
+                        <option value="">Select Course</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="enrollmentDate">Enrollment Date</label>
+                    <input type="date" name="" id="enrollmentDate" required>
+                </div>
+                <button type="submit" class="submit-btn">Save Student</button>
+            </form>
+        </div>
+       </div>
+
+       
     </div>
 
     <script src="https://kit.fontawesome.com/2998e3cdc3.js" crossorigin="anonymous"></script>

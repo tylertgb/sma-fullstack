@@ -133,7 +133,7 @@ async function updateDashboardStats() {
 async function loadStudents() {
   try {
     const response = await fetch(`${API_BASE_URL}/api/students`);
-    if(!response.ok) throw new Error("Failed to load students data");
+    if (!response.ok) throw new Error("Failed to load students data");
 
     students = await response.json();
     renderStudentTables(students);
@@ -146,21 +146,204 @@ async function loadStudents() {
 }
 
 //Load Courses data from the API server
-async function loadCourses(){
-    try{
-        const response = await fetch(`${API_BASE_URL}/api/courses`);
-        if(!response.ok) throw new Error("Failed to fetch Courses");
+async function loadCourses() {
+  try {
+    const response = await fetch(`${API_BASE_URL}/api/courses`);
+    if (!response.ok) throw new Error("Failed to fetch Courses");
 
-        courses = await response.json();
-        updateCourseDropdown(courses);
-        renderCourseTables(courses);
-        return courses;
-    }catch (error){
-        console.error("Failed to load Courses", error);
-        showNotification("Error loading Courses", "error");
-        courses = [];
-        renderCourseTables([]);
-    }
+    courses = await response.json();
+    updateCourseDropdown(courses);
+    renderCourseTables(courses);
+    return courses;
+  } catch (error) {
+    console.error("Failed to load Courses", error);
+    showNotification("Error loading Courses", "error");
+    courses = [];
+    renderCourseTables([]);
+  }
 }
 
 //Now we need to add the CRUD operations for application
+
+//CRUD Operations for Students
+//---To Create Student
+async function createStudent(studentData) {
+  const response = await fetch(`${API_BASE_URL}/api/students`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(studentData),
+  });
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(error.message || "Failed to create student");
+  }
+  return response.json();
+}
+
+//To update a Student
+async function updateStudent(id, studentData) {
+  const response = await fetch(`${API_BASE_URL}/api/students/${id}`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(studentData),
+  });
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(error.message || "Faild to update student");
+  }
+  return response.json();
+}
+
+//To Delete a Student
+async function deleteStudent(id) {
+  deleteType = "student";
+  deleteId = id;
+  document.getElementById("deleteComfirmationModal").style.display = "flex";
+}
+
+//CRUD Operations for Courses
+//---To create a Course
+async function createCourse(courseData) {
+  const response = await fetch(`${API_BASE_URL}/api/courses/`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(courseData),
+  });
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(error.message || "Faild to create Course");
+  }
+  return response.json();
+}
+
+//To update a Course
+async function updateCourse(id, courseData) {
+  const response = await fetch(`${API_BASE_URL}/api/courses/${id}`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(courseData),
+  });
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(error.message || "Faild to update course");
+  }
+  return response.json();
+}
+
+//To Delete a Courese
+async function deleteCourse(id) {
+  deleteType = "course";
+  deleteId = id;
+  document.getElementById("deleteComfirmationModal").style.display = "flex";
+}
+
+function closeDeleteModal() {
+  document.getElementById("deleteComfirmationModal").style.display = "none";
+  deleteType = "";
+  deleteId = null;
+}
+
+//Comfirm Delete by type
+async function comfirmDelete(){
+    showLoading();
+    try{
+        if(deleteType === "student"){
+            const response = await fetch(`${API_BASE_URL}/api/students/${deleteId}`, {
+                method: "DELETE"
+            });
+
+            if(!response.ok){
+                throw new Error("Failed to delete student");
+            }
+
+            showNotification("Student deleted successfully!", "success");
+            await loadStudents();
+            await updateDashboardStats();
+        }else if(deleteType === "course"){
+            const response = await fetch(`${API_BASE_URL}/api/course/${deleteId}`, {
+                method: "DELETE"
+            });
+
+            if(!response.ok){
+                const error = await response.json();
+                throw new Error(error.message || "Failed to delete course");
+            }
+            showNotification("Course deleted successfully!", "success");
+            await loadCourses();
+            await updateDashboardStats();
+        }
+    }catch(error){
+        console.error("An error occurred while deleting", error);
+        showNotification(error.message || "An error occurred while deleting", "error");
+    }finally{
+        hideLoading();
+        closeDeleteModal();
+    }
+}
+
+//Form Handling
+async function handleFormSubmit(e){
+    e.preventDefault();
+    showLoading();
+
+    const studentData = {
+        name: document.getElementById("studentName").value.trim(),
+        email: document.getElementById("studentEmail").value.trim(),
+        course: document.getElementById("studentCourse").value.trim(),
+        enrollmentDate: document.getElementById("enrollmentDate").value, status: "active", 
+        //
+    };
+
+    try{
+        if(editingId){
+            await updateStudent(editingId, studentData);
+            showNotification("Student updated successfully", "success");
+        }else{
+            await createStudent(studentData);
+            showNotification("Student created successfully", "success");
+        }
+        closeModal();
+        await loadStudents();
+        await updateDashboardStats();
+    }catch(error){
+        console.error("Error", error);
+        showNotification("Error saving student data", "error");
+    }finally{
+        hideLoading();
+    }
+}
+
+//Handle course form submission
+async function handleCourseFormSubmit(e){
+    e.preventDefault();
+    showLoading();
+
+    const courseData = {
+        name: document.getElementById("courseName").value.trim(),
+        description: document.getElementById("courseDescription").value.trim(),
+        duration: pasedInt(document.getElementById("courseDuration").value),
+        status: document.getElementById("courseStatus").value,
+    };
+
+    try{
+        if(editingId){
+            await updateCourse(editingId, courseData);
+            showNotification("Course updated successfully", "success");
+        }else{
+            await createCourse(courseData);
+            showNotification("Course created successfully", "success");
+        }
+        closeModal();
+        await loadCourses();
+        await updateDashboardStats();
+    }catch(error){
+        console.error("Error", error);
+        showNotification("Error saving course data", "error");
+    }finally{
+        hideLoading();
+    }
+}

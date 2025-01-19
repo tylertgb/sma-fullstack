@@ -441,6 +441,22 @@ function renderCourseTable(coursesToRender) {
     return;
   }
 
+  // To define escapeHtml
+  function escapeHtml(str) {
+    if (typeof str !== "string") return str;
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+  
+  function capitalizedFirstLetter(str) {
+    if (typeof str !== "string" || str.length === 0) return str;
+    return str.charAt(0).toUpperCase() + str.slice(1);
+  }
+  
   coursesToRender.forEach((course) => {
     const row = document.createElement("tr");
     row.innerHTML = `
@@ -454,11 +470,11 @@ function renderCourseTable(coursesToRender) {
             </span>
         </td>
         <td class="action-buttons">
-            <button class="action-btn edit-btn" onClick="editCourse(course._id)">
+            <button class="action-btn edit-btn" onclick="editCourse('${course._id}')">
             <i class="fa fa-edit"></i>Edit
             </button>
 
-            <button class="action-btn delete-btn" onClick="deleteCourse(course._id)">
+            <button class="action-btn delete-btn" onClick="deleteCourse('${course._id}')">
             <i class = "fa fa-trash"></i>Delete
             </button>
         </td>
@@ -510,16 +526,20 @@ async function editCourse(id) {
 
   try {
     const response = await fetch(`${API_BASE_URL}/api/courses/${id}`);
+    const contentType = response.headers.get("content-type");
+
     if (!response.ok) {
-      const error = await response.json();
-      throw new Error(error.message || "Failed to fetch Course");
+      const errorMessage = contentType.includes("application/json")
+        ? (await response.json()).message
+        : await response.text();
+      throw new Error(errorMessage || "Failed to fetch Course");
     }
 
     const course = await response.json();
 
     editingCourseId = id;
     document.getElementById("courseModalTitle").textContent = "Edit Course";
-    document.getElementById("coursName").value = course.name;
+    document.getElementById("courseName").value = course.name;
     document.getElementById("courseDescription").value = course.description;
     document.getElementById("courseDuration").value = course.duration;
     document.getElementById("courseStatus").value = course.status;
@@ -532,6 +552,7 @@ async function editCourse(id) {
     hideLoading();
   }
 }
+
 
 //Search Functionality
 let searchTimeout;

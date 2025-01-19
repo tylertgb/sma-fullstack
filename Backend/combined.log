@@ -9,3 +9,1230 @@
 {"level":"info","message":{"duration":"2ms","query":{},"status":404},"timestamp":"2025-01-13T07:50:46.348Z"}
 {"level":"info","message":{"duration":"2ms","query":{},"status":404},"timestamp":"2025-01-13T07:50:48.423Z"}
 {"level":"info","message":{"duration":"3ms","query":{},"status":404},"timestamp":"2025-01-13T07:50:51.963Z"}
+{"level":"info","message":{"duration":"391ms","params":{},"query":{},"status":200},"timestamp":"2025-01-16T18:20:03.335Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-16T18:20:03.610Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-16T18:20:03.782Z"}
+{"level":"info","message":{"duration":"956ms","params":{},"query":{},"status":500},"timestamp":"2025-01-16T18:20:03.997Z"}
+{"level":"info","message":{"duration":"23ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:20:08.282Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-16T18:20:08.548Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-16T18:20:08.559Z"}
+{"level":"info","message":{"duration":"313ms","params":{},"query":{},"status":500},"timestamp":"2025-01-16T18:20:08.642Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:20:15.498Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-16T18:20:15.815Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-16T18:20:15.819Z"}
+{"level":"info","message":{"duration":"359ms","params":{},"query":{},"status":500},"timestamp":"2025-01-16T18:20:15.880Z"}
+{"level":"info","message":{"duration":"19ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:20:28.611Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-16T18:20:28.727Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-16T18:20:28.730Z"}
+{"level":"info","message":{"duration":"193ms","params":{},"query":{},"status":500},"timestamp":"2025-01-16T18:20:28.825Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:26:59.999Z"}
+{"level":"info","message":{"duration":"44ms","params":{},"query":{},"status":200},"timestamp":"2025-01-16T18:27:00.012Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:27:02.945Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:27:02.951Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:27:08.901Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:27:08.908Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:27:10.887Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:27:10.893Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:27:42.496Z"}
+{"level":"info","message":{"duration":"17ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:27:42.503Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:28:22.969Z"}
+{"level":"info","message":{"duration":"895ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:28:23.765Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:28:35.227Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-16T18:28:35.286Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-16T18:28:35.303Z"}
+{"level":"info","message":{"duration":"247ms","params":{},"query":{},"status":500},"timestamp":"2025-01-16T18:28:35.480Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:28:47.005Z"}
+{"level":"info","message":{"duration":"313ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:28:47.282Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:29:16.725Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:29:16.730Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:29:40.188Z"}
+{"level":"info","message":{"duration":"22ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:29:40.200Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:35:43.613Z"}
+{"level":"info","message":{"duration":"73ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:35:43.648Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:36:11.379Z"}
+{"level":"info","message":{"duration":"20ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:36:11.390Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-16T18:38:48.178Z"}
+{"level":"info","message":{"duration":"20ms","params":{},"query":{},"status":304},"timestamp":"2025-01-16T18:38:48.187Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T12:51:17.294Z"}
+{"level":"info","message":{"duration":"234ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:51:17.364Z"}
+{"level":"info","message":{"duration":"38ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:51:21.791Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T12:51:21.939Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T12:51:21.941Z"}
+{"level":"info","message":{"duration":"185ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T12:51:21.946Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:51:28.237Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T12:51:28.260Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T12:51:28.263Z"}
+{"level":"info","message":{"duration":"44ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T12:51:28.275Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:52:41.329Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T12:52:41.359Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T12:52:41.360Z"}
+{"level":"info","message":{"duration":"46ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T12:52:41.372Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:52:44.767Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T12:52:44.795Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T12:52:44.799Z"}
+{"level":"info","message":{"duration":"43ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T12:52:44.806Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:52:56.075Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T12:52:56.097Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T12:52:56.101Z"}
+{"level":"info","message":{"duration":"29ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T12:52:56.107Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T12:58:54.313Z"}
+{"level":"info","message":{"duration":"33ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T12:58:54.342Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:14:43.090Z"}
+{"level":"info","message":{"duration":"36ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:14:43.114Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:20:09.276Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:20:09.281Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:20:16.495Z"}
+{"level":"info","message":{"duration":"27ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:20:16.502Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:20:20.929Z"}
+{"level":"info","message":{"duration":"19ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:20:20.943Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:20:39.966Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:20:39.968Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:20:41.333Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:20:41.336Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:21:26.799Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:21:26.802Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:21:27.985Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:21:27.988Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:21:31.771Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:21:31.777Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:21:38.557Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:21:38.560Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:21:45.623Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:21:45.626Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:27:12.270Z"}
+{"level":"info","message":{"duration":"44ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:27:12.311Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:27:12.758Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:27:12.763Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:27:21.738Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:27:21.743Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:27:23.171Z"}
+{"level":"info","message":{"duration":"24ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:27:23.173Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:27:24.695Z"}
+{"level":"info","message":{"duration":"23ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:27:24.698Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:27:25.456Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:27:25.458Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:43.874Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:43.877Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:45.367Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:45.372Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:45.996Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:45.998Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:48.836Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:48.840Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:49.790Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:49.794Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:50.505Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:50.509Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:51.127Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:51.129Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:30:52.481Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:30:52.490Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:33:19.426Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:19.430Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:33:22.158Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:22.160Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:33:23.698Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:23.700Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:33:30.786Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:30.790Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:33:45.982Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:45.988Z"}
+{"level":"info","message":{"duration":"18ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:52.685Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:33:52.769Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:33:52.782Z"}
+{"level":"info","message":{"duration":"109ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:33:52.796Z"}
+{"level":"info","message":{"duration":"28ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:33:57.300Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:33:57.320Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:33:57.321Z"}
+{"level":"info","message":{"duration":"61ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:33:57.335Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:40.581Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:40.584Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:41.920Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:41.925Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:42.750Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:42.752Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:43.894Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:43.898Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:44.702Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:44.707Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:45.827Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:45.830Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:47.012Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:47.014Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:48.025Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:48.028Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:49.112Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:49.124Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:50.209Z"}
+{"level":"info","message":{"duration":"22ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:50.223Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:51.316Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:51.318Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:52.362Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:52.367Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:53.613Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:53.616Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:34:54.572Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:34:54.579Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":200},"timestamp":"2025-01-19T13:34:58.480Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:34:58.547Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:34:58.549Z"}
+{"level":"info","message":{"duration":"51ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:34:58.551Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:18.819Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:18.829Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:37.326Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:37.328Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:38.300Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:38.304Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:39.454Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:39.456Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:40.450Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:40.455Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:41.544Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:41.546Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:42.731Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:42.733Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:43.847Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:43.849Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:44.814Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:44.816Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:45.898Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:45.900Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:46.984Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:46.987Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:48.117Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:48.120Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:49.172Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:49.174Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:50.262Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:50.264Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:51.365Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:51.367Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:52.658Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:52.660Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:53.531Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:53.534Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:54.607Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:54.609Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:55.678Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:55.680Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:56.765Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:56.768Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:58.078Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:58.081Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:35:59.024Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:35:59.027Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:00.093Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:00.094Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:01.396Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:01.404Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:02.315Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:02.320Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:03.474Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:03.478Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:04.572Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:04.575Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:05.765Z"}
+{"level":"info","message":{"duration":"20ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:05.782Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:06.777Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:06.779Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:07.825Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:07.829Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:08.893Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:08.897Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:10.016Z"}
+{"level":"info","message":{"duration":"17ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:10.030Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:11.162Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:11.164Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:12.264Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:12.277Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:13.282Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:13.290Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:14.147Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:14.157Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:14.635Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:14.640Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:15.682Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:15.692Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:16.743Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:16.746Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:17.831Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:17.838Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:19.062Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:19.064Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:20.057Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:20.064Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:21.149Z"}
+{"level":"info","message":{"duration":"14ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:21.160Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:22.245Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:22.248Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:23.310Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:23.312Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:24.392Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:24.395Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:25.545Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:25.547Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:26.644Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:26.646Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:27.695Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:27.697Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:28.827Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:28.829Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:29.911Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:29.914Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:30.913Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:30.920Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:32.027Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:32.030Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:33.138Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:33.145Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:34.199Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:34.207Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:35.294Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:35.296Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:36.376Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:36.378Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:37.480Z"}
+{"level":"info","message":{"duration":"14ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:37.492Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:38.666Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:38.675Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:39.679Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:39.690Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:40.880Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:40.886Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:41.992Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:42.000Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:42.930Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:42.933Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:44.477Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:44.483Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:45.299Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:45.304Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:46.212Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:46.216Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:47.248Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:47.254Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:48.332Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:48.336Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:49.409Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:49.411Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:50.532Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:50.535Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:51.754Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:51.756Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:52.675Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:52.677Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:53.766Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:53.769Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:54.945Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:54.948Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:55.963Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:55.968Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:57.080Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:57.085Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:58.150Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:58.153Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:36:59.292Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:36:59.295Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:00.314Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:00.317Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:01.379Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:01.382Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:02.473Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:02.475Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:03.620Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:03.622Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:04.642Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:04.644Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:05.820Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:05.822Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:06.935Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:06.937Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:07.984Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:07.986Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:09.048Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:09.050Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:10.152Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:10.154Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:11.139Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:11.144Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:11.920Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:11.922Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:13.082Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:13.089Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:14.198Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:14.209Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:15.243Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:15.252Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:16.414Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:16.416Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:17.539Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:17.541Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:18.651Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:18.654Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:19.815Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:19.819Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:20.706Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:20.708Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:21.995Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:21.999Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:22.936Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:22.938Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:24.089Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:24.091Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:25.114Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:25.116Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:26.224Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:26.226Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:27.293Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:27.296Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:28.406Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:28.408Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:29.521Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:29.529Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:30.647Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:30.650Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:31.750Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:31.752Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:32.804Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:32.806Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:34.170Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:34.172Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:34.976Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:34.978Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:36.111Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:36.113Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:37.158Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:37.160Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:38.308Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:38.310Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:39.417Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:39.419Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:40.439Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:40.441Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:41.565Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:41.567Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:42.862Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:42.865Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:43.760Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:43.764Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:44.902Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:44.916Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:45.940Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:45.942Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:47.211Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:47.214Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:48.157Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:48.159Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:49.237Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:49.239Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:50.321Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:50.323Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:51.440Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:51.442Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:52.532Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:52.534Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:53.600Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:53.604Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:54.688Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:54.690Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:55.828Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:55.834Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:56.884Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:56.886Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:57.963Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:57.969Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:37:59.061Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:37:59.063Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:00.259Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:00.270Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:01.390Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:01.393Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:02.778Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:02.781Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:03.573Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:03.576Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:04.592Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:04.594Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:05.677Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:05.680Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:06.841Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:06.845Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:07.857Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:07.859Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:08.933Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:08.935Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:10.033Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:10.035Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:11.290Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:11.292Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:12.252Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:12.254Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:13.418Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:13.420Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:14.417Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:14.420Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:15.552Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:15.554Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:16.605Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:16.607Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:17.707Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:17.709Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:18.849Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:18.852Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:19.939Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:19.941Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:20.992Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:20.995Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:22.089Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:22.092Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:23.211Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:23.215Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:24.322Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:24.325Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:25.368Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:25.370Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:26.441Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:26.444Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:27.556Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:27.558Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:28.757Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:28.759Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:29.711Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:29.714Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:30.783Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:30.785Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:31.919Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:31.921Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:33.015Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:33.018Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:34.072Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:34.074Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:35.162Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:35.164Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:36.248Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:36.250Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:37.348Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:37.350Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:38.409Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:38.412Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:39.567Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:39.570Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:40.605Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:40.608Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:41.743Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:41.745Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:42.783Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:42.786Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:43.872Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:43.875Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:45.035Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:45.037Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:46.168Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:46.171Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:47.788Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:47.791Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:48.203Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:48.205Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:49.357Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:49.362Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:50.567Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:50.570Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:51.520Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:51.522Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:52.625Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:52.627Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:53.703Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:53.705Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:54.924Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:54.928Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:55.882Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:55.885Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:57.003Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:57.005Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:58.086Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:58.089Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:38:59.206Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:38:59.208Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:00.265Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:00.267Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:01.404Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:01.405Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:02.559Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:02.565Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:03.737Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:03.739Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:04.609Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:04.611Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:05.815Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:05.817Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:06.836Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:06.838Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:07.914Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:07.916Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:09.005Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:09.007Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:10.088Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:10.092Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:11.269Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:11.271Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:12.389Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:12.394Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:13.514Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:13.516Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:14.466Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:14.468Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:15.540Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:15.544Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:16.714Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:16.717Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:17.752Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:17.754Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:18.829Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:18.833Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:19.885Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:19.887Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:20.970Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:20.973Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:22.168Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:22.170Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:23.179Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:23.182Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:24.635Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:24.637Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:25.455Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:25.462Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:26.619Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:26.621Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:27.758Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:27.761Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:28.985Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:28.987Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:30.067Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:30.069Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:31.212Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:31.219Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:32.351Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:32.353Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:33.295Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:33.298Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:34.282Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:34.285Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:35.716Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:35.721Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:37.007Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:37.014Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:38.074Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:38.077Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:39.087Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:39.094Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:40.104Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:40.111Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:40.982Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:40.984Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:41.984Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:41.986Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:43.061Z"}
+{"level":"info","message":{"duration":"17ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:43.063Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:44.235Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:44.243Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:45.303Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:45.309Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:46.469Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:46.475Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:47.463Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:47.466Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:48.753Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:48.762Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:50.274Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:50.282Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:51.000Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:51.003Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:52.074Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:52.078Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:53.227Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:53.229Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:54.348Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:54.350Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:55.327Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:55.333Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:56.362Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:56.364Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:57.555Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:57.557Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:58.928Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:58.930Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:39:59.623Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:39:59.628Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:40:01.112Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:40:01.114Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:40:02.781Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:40:02.783Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:40:48.632Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:40:48.633Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:04.879Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:04.883Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:06.664Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:41:06.764Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:41:06.766Z"}
+{"level":"info","message":{"duration":"94ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:41:06.777Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:11.262Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:41:11.287Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:41:11.290Z"}
+{"level":"info","message":{"duration":"41ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:41:11.300Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:22.782Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:41:22.811Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:41:22.812Z"}
+{"level":"info","message":{"duration":"28ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:41:22.814Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:33.148Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:33.153Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:34.368Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:34.371Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:35.473Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:35.474Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:37.076Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:37.078Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:38.033Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:38.044Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:39.108Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:39.110Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:40.181Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:40.184Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:41.282Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:41.289Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:42.363Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:42.365Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:43.474Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:43.480Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:44.542Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:44.545Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:45.647Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:45.659Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:46.731Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:46.738Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:47.846Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:47.848Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:48.905Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:48.907Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:49.977Z"}
+{"level":"info","message":{"duration":"16ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:49.980Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:51.141Z"}
+{"level":"info","message":{"duration":"14ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:51.145Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:52.178Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:52.180Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:53.258Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:53.261Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:54.396Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:54.400Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:55.428Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:55.430Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:56.464Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:56.466Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:57.586Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:57.588Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:58.642Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:58.644Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:41:59.768Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:41:59.770Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:00.857Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:00.860Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:02.213Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:02.215Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:02.602Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:02.603Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:03.843Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:03.845Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:04.841Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:04.843Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:05.955Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:05.957Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:07.025Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:07.027Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:08.214Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:08.218Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:09.182Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:09.184Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:10.278Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:10.280Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:11.391Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:11.393Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:12.546Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:12.551Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:13.675Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:13.676Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:15.240Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:15.242Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:16.216Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:16.219Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:17.664Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:17.666Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:18.463Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:18.465Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:19.561Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:19.563Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:20.671Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:20.674Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:21.765Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:21.773Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:22.854Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:22.858Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:23.963Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:23.973Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:25.032Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:25.040Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:26.138Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:26.144Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:27.222Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:27.226Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:28.394Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:28.396Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:29.417Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:29.425Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:30.509Z"}
+{"level":"info","message":{"duration":"14ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:30.520Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:31.577Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:31.579Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:32.669Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:32.672Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:33.772Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:33.775Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:34.857Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:34.859Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:35.956Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:35.959Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:37.040Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:37.042Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:38.121Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:38.124Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:39.227Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:39.232Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:40.423Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:40.425Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:41.375Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:41.381Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:42.447Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:42.449Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:43.584Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:43.587Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:44.609Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:44.614Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:45.752Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:45.754Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:47.009Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:47.011Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:48.011Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:48.013Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:49.058Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:49.060Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:50.153Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:50.155Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:51.239Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:51.241Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:52.379Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:52.381Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:53.393Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:53.395Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:54.530Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:54.532Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:55.670Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:55.672Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:56.691Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:56.693Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:57.797Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:57.799Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:58.846Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:58.849Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:42:59.995Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:42:59.997Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:01.044Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:01.048Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:02.188Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:02.190Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:03.235Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:03.237Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:04.373Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:04.375Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:05.416Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:05.418Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:06.531Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:06.533Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:07.591Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:07.592Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:08.761Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:08.763Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:09.775Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:09.777Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:10.866Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:10.868Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:11.949Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:11.951Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:13.155Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:13.157Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:14.134Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:14.136Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:15.223Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:15.225Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:16.311Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:16.312Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:17.469Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:17.471Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:18.519Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:18.522Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:19.602Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:19.604Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:20.700Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:20.702Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:21.834Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:21.840Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:22.877Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:22.879Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:24.051Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:24.054Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:25.147Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:25.150Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:26.385Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:26.387Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:27.336Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:27.338Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:28.430Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:28.431Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:29.520Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:29.521Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:30.684Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:30.686Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:31.807Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:31.808Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:32.937Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:32.940Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:33.999Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:34.002Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:35.078Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:35.082Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:36.204Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:36.206Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:37.241Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:37.244Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:38.246Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:38.248Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:39.364Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:39.366Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:40.469Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:40.470Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:41.555Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:41.557Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:42.649Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:42.652Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:43.751Z"}
+{"level":"info","message":{"duration":"8ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:43.757Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:44.805Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:44.807Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:45.896Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:45.898Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:46.982Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:46.984Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:48.137Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:48.140Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:49.155Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:49.157Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:50.241Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:50.243Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:51.344Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:51.345Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:52.580Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:52.582Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:53.588Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:53.591Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:54.631Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:54.634Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:55.717Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:55.719Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:56.867Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:56.869Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:57.899Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:57.901Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:43:59.047Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:43:59.050Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:00.056Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:00.058Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:01.183Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:01.185Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:02.271Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:02.273Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:03.328Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:03.330Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:04.408Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:04.410Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:05.677Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:05.679Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:06.621Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:06.623Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:07.690Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:07.691Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:08.780Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:08.782Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:09.922Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:09.924Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:10.968Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:10.970Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:12.050Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:12.051Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:13.138Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:13.140Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:14.280Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:14.282Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:15.329Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:15.331Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:16.412Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:16.413Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:17.501Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:17.503Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:18.627Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:18.629Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:19.676Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:19.678Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:20.778Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:20.780Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:21.870Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:21.871Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:23.069Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:23.072Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:24.081Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:24.083Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:25.229Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:25.231Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:26.307Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:26.310Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:27.495Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:27.496Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:28.478Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:28.480Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:29.553Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:29.555Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:30.638Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:30.639Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:31.758Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:31.760Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:32.909Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:32.911Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:33.912Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:33.914Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:34.982Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:34.983Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:36.147Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:36.149Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:37.215Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:37.217Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:38.285Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:38.287Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:39.361Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:39.363Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:40.460Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:40.463Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:41.557Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:41.559Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:42.630Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:42.632Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:43.766Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:43.768Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:44.880Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:44.881Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:46.009Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:46.013Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:47.012Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:47.014Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:48.098Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:48.099Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:49.224Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:49.226Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:50.311Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:50.313Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:51.369Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:51.371Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:52.466Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:52.468Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:53.591Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:53.593Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:54.666Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:54.668Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:55.740Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:55.741Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:56.833Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:56.835Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:58.349Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:58.353Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:44:59.386Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:44:59.398Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:00.362Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:00.365Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:01.298Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:01.300Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:02.383Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:02.386Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:03.500Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:03.503Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:04.610Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:04.613Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:05.666Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:05.668Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:06.835Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:06.836Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:07.867Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:07.870Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:09.125Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:09.127Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:10.086Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:10.088Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:11.250Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:11.252Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:12.251Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:12.253Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:13.352Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:13.355Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:14.426Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:14.428Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:15.510Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:15.512Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:16.586Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:16.590Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:17.699Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:17.701Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:18.877Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:18.879Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:19.950Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:19.953Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:21.085Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:21.098Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:22.420Z"}
+{"level":"info","message":{"duration":"11ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:22.428Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:23.177Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:23.179Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:24.356Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:24.358Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:25.552Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:25.553Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:26.401Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:26.403Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:28.115Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:28.117Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:28.882Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:28.884Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:29.943Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:29.945Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:30.834Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:30.836Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:32.186Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:32.191Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:33.118Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:33.119Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:34.100Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:34.104Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:35.278Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:35.279Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:36.269Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:36.272Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:37.823Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:37.826Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:45:39.578Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:45:39.581Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:46:34.414Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:46:34.416Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:46:34.480Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:46:34.484Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:46:51.131Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:46:51.134Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:46:51.238Z"}
+{"level":"info","message":{"duration":"15ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:46:51.247Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:47:03.364Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:47:03.397Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:47:03.398Z"}
+{"level":"info","message":{"duration":"33ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:47:03.405Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:47:11.318Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:47:11.341Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:47:11.342Z"}
+{"level":"info","message":{"duration":"35ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:47:11.345Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:47:12.411Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:47:12.417Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:47:16.744Z"}
+{"activeCourses":0,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:47:16.764Z","totalCourses":0,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:47:16.767Z"}
+{"level":"info","message":{"duration":"31ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:47:16.777Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:48:05.313Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:48:05.316Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:48:05.375Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:48:05.378Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:51:11.153Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:51:11.155Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:51:11.167Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:51:11.170Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:53:39.404Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:53:39.407Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:53:39.465Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:53:39.467Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:53:53.005Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:53:53.007Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:53:53.081Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:53:53.083Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:54:03.468Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:54:03.470Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-01-19T13:54:07.085Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:54:07.087Z"}
+{"couresId":"678d042f828448abbcdf6322","level":"info","message":"New Course created:","name":"Object Oriented Programming (Java)","timestamp":"2025-01-19T13:54:55.457Z"}
+{"level":"info","message":{"body":{"description":"The error occurs because pasedInt is not a valid JavaScript function. It should be parseInt, which is the correct function for parsing strings into integers in JavaScript. Here's the corrected code:","duration":3,"name":"Object Oriented Programming (Java)","status":"active"},"duration":"98ms","params":{},"query":{},"status":201},"timestamp":"2025-01-19T13:54:55.465Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T13:54:55.492Z"}
+{"level":"info","message":{"duration":"23ms","params":{},"query":{},"status":200},"timestamp":"2025-01-19T13:54:55.502Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:54:55.602Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:54:55.603Z"}
+{"level":"info","message":{"duration":"39ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:54:55.604Z"}
+{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: students-management.courses index: name_1 dup key: { name: \"Object Oriented Programming (Java)\" }","index":0,"keyPattern":{"name":1},"keyValue":{"name":"Object Oriented Programming (Java)"}},"index":0,"keyPattern":{"name":1},"keyValue":{"name":"Object Oriented Programming (Java)"},"level":"error","message":"Error creating Course E11000 duplicate key error collection: students-management.courses index: name_1 dup key: { name: \"Object Oriented Programming (Java)\" }","stack":"MongoServerError: E11000 duplicate key error collection: students-management.courses index: name_1 dup key: { name: \"Object Oriented Programming (Java)\" }\n    at InsertOneOperation.execute (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:199:20)\n    at async executeOperation (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:69:16)\n    at async Collection.insertOne (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\collection.js:154:16)","timestamp":"2025-01-19T13:55:29.539Z"}
+{"level":"info","message":{"body":{"description":"The error occurs because pasedInt is not a valid JavaScript function. It should be parseInt, which is the correct function for parsing strings into integers in JavaScript. Here's the corrected code:","duration":3,"name":"Object Oriented Programming (Java)","status":"active"},"duration":"39ms","params":{},"query":{},"status":400},"timestamp":"2025-01-19T13:55:29.548Z"}
+{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: students-management.courses index: name_1 dup key: { name: \"Object Oriented Programming (Java)\" }","index":0,"keyPattern":{"name":1},"keyValue":{"name":"Object Oriented Programming (Java)"}},"index":0,"keyPattern":{"name":1},"keyValue":{"name":"Object Oriented Programming (Java)"},"level":"error","message":"Error creating Course E11000 duplicate key error collection: students-management.courses index: name_1 dup key: { name: \"Object Oriented Programming (Java)\" }","stack":"MongoServerError: E11000 duplicate key error collection: students-management.courses index: name_1 dup key: { name: \"Object Oriented Programming (Java)\" }\n    at InsertOneOperation.execute (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:199:20)\n    at async executeOperation (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:69:16)\n    at async Collection.insertOne (C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\node_modules\\mongodb\\lib\\collection.js:154:16)","timestamp":"2025-01-19T13:55:30.559Z"}
+{"level":"info","message":{"body":{"description":"The error occurs because pasedInt is not a valid JavaScript function. It should be parseInt, which is the correct function for parsing strings into integers in JavaScript. Here's the corrected code:","duration":3,"name":"Object Oriented Programming (Java)","status":"active"},"duration":"16ms","params":{},"query":{},"status":400},"timestamp":"2025-01-19T13:55:30.564Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T13:57:29.443Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:29.454Z"}
+{"level":"info","message":{"duration":"10ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:30.490Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:57:30.513Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:57:30.514Z"}
+{"level":"info","message":{"duration":"23ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:57:30.516Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:31.493Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:57:31.519Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:57:31.523Z"}
+{"level":"info","message":{"duration":"32ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:57:31.527Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T13:57:35.589Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:35.591Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:37.342Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T13:57:37.363Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T13:57:37.364Z"}
+{"level":"info","message":{"duration":"22ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T13:57:37.366Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T13:57:47.096Z"}
+{"level":"info","message":{"duration":"12ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:47.098Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T13:57:47.264Z"}
+{"level":"info","message":{"duration":"13ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T13:57:47.270Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T14:00:58.237Z"}
+{"level":"info","message":{"duration":"6ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:00:58.239Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T14:00:58.387Z"}
+{"level":"info","message":{"duration":"30ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:00:58.401Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":200},"timestamp":"2025-01-19T14:06:38.588Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T14:06:38.624Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T14:06:38.630Z"}
+{"level":"info","message":{"duration":"49ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T14:06:38.633Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T14:06:39.654Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":200},"timestamp":"2025-01-19T14:06:39.662Z"}
+{"level":"info","message":{"duration":"3ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:06:46.486Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T14:06:46.507Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T14:06:46.515Z"}
+{"level":"info","message":{"duration":"30ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T14:06:46.518Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T14:06:47.608Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:06:47.611Z"}
+{"level":"info","message":{"duration":"9ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:06:55.728Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T14:06:55.764Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T14:06:55.765Z"}
+{"level":"info","message":{"duration":"39ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T14:06:55.768Z"}
+{"level":"info","message":{"duration":"5ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:06:57.363Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T14:06:57.380Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T14:06:57.381Z"}
+{"level":"info","message":{"duration":"19ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T14:06:57.383Z"}
+{"level":"info","message":{"duration":"4ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:07:03.265Z"}
+{"activeCourses":1,"activeStudents":0,"courseCouts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully","successRate":0,"timestamp":"2025-01-19T14:07:03.295Z","totalCourses":1,"totalStudents":0}
+{"level":"error","message":"Error fetching dashboard stats: error is not defined","stack":"ReferenceError: error is not defined\n    at C:\\Users\\tgbri\\Documents\\TOP STACK\\FullStack Development, NodeJS, MongoDB\\students-management\\Backend\\server.js:350:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-01-19T14:07:03.297Z"}
+{"level":"info","message":{"duration":"32ms","params":{},"query":{},"status":500},"timestamp":"2025-01-19T14:07:03.299Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-01-19T14:07:05.949Z"}
+{"level":"info","message":{"duration":"7ms","params":{},"query":{},"status":304},"timestamp":"2025-01-19T14:07:05.952Z"}

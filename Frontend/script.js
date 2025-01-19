@@ -1,5 +1,3 @@
-const { escape } = require("querystring");
-
 //This's where we'll be accessing our apis, that's where the server runs
 const API_BASE_URL = "http://localhost:3000";
 
@@ -14,7 +12,7 @@ let deleteId = null;
 //Get all the DOM elements
 const studentTableBody = document.getElementById("studentTableBody");
 const allStudentTableBody = document.getElementById("allStudentTableBody");
-const courseTableBody = document.getElementId("courseTableBody");
+const courseTableBody = document.getElementById("courseTableBody");
 const studentModal = document.getElementById("studentModal");
 const courseModal = document.getElementById("courseModal");
 const studentForm = document.getElementById("studentForm");
@@ -72,18 +70,18 @@ async function checkAndLoadData() {
 
     await Promise.all([loadStudents(), updateDashboardStats()]);
   } catch (error) {
-    console.error("Error during initialization:", err);
+    console.error("Error during initialization:", error);
     showNotification("Error ininitializing application:", "error");
   } finally {
     hideLoading();
   }
 }
 
-//Navigation Functions
+// Navigation functions
 function navigateToSection(section) {
   currentSection = section;
 
-  //Update active nav item
+  // Update active nav item
   document.querySelectorAll(".nav-item").forEach((item) => {
     item.classList.remove("active");
     if (item.dataset.section === section) {
@@ -91,15 +89,15 @@ function navigateToSection(section) {
     }
   });
 
-  //Hide All Sections
+  // Hide all sections
   document.querySelectorAll(".section").forEach((section) => {
     section.classList.remove("active");
   });
 
-  //Show Selected or Active Sections
+  // Show selected section
   document.getElementById(`${section}Section`).classList.add("active");
 
-  //Refresh data when switching between sections
+  // Refresh data when switching sections
   if (section === "courses") {
     loadCourses();
   } else if (section === "students" || section === "dashboard") {
@@ -107,6 +105,7 @@ function navigateToSection(section) {
     updateDashboardStats();
   }
 }
+
 
 async function updateDashboardStats() {
   try {
@@ -138,12 +137,12 @@ async function loadStudents() {
     if (!response.ok) throw new Error("Failed to load students data");
 
     students = await response.json();
-    renderStudentTables(students);
+    renderStudentTable(students);
   } catch (error) {
     console.error("Error loading students", error);
     showNotification("Error loading students", "error");
     students = [];
-    renderStudentTables([]);
+    renderStudentTable([]);
   }
 }
 
@@ -155,13 +154,13 @@ async function loadCourses() {
 
     courses = await response.json();
     updateCourseDropdown(courses);
-    renderCourseTables(courses);
+    renderCourseTable(courses);
     return courses;
   } catch (error) {
     console.error("Failed to load Courses", error);
     showNotification("Error loading Courses", "error");
     courses = [];
-    renderCourseTables([]);
+    renderCourseTable([]);
   }
 }
 
@@ -331,7 +330,7 @@ async function handleCourseFormSubmit(e) {
   const courseData = {
     name: document.getElementById("courseName").value.trim(),
     description: document.getElementById("courseDescription").value.trim(),
-    duration: pasedInt(document.getElementById("courseDuration").value),
+    duration: parseInt(document.getElementById("courseDuration").value, 10),
     status: document.getElementById("courseStatus").value,
   };
 
@@ -353,9 +352,8 @@ async function handleCourseFormSubmit(e) {
     hideLoading();
   }
 }
-
 //UI Rendering Functions
-function renderStudentTables(studentToRender) {
+function renderStudentTable(studentToRender) {
   const tables = [studentTableBody, allStudentTableBody];
 
   tables.forEach((table) => {
@@ -407,6 +405,16 @@ function renderStudentTables(studentToRender) {
 
 //Update Course Dropdown
 function updateCourseDropdown(courses) {
+  const courseSelect = document.getElementById("studentCourse"); // Replace with the actual ID of your dropdown element
+  
+  if(!courseSelect){
+    console.log("Course dropdown element not found!");
+    return;
+  }
+
+   // Clear existing options in the dropdown (if needed)
+  courseSelect.innerHTML = "";
+  
   courses
     .filter((course) => course.status === "active")
     .forEach((course) => {
@@ -566,6 +574,9 @@ function formatDateForInput(dateString) {
   return new Date(dateString).toISOString().split("T")[0];
 }
 
+function showLoading() {
+  document.querySelector(".loading-spinner").classList.add("active");
+}
 function hideLoading() {
   document.querySelector(".loading-spinner").classList.remove("active");
 }
